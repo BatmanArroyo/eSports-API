@@ -1,0 +1,21 @@
+    [ {
+        "nombre": "FIFA",
+        "descripcion": "FIFA Fútbol es un juego de plataforma móvil desarrollado por la compañía Electronic Arts. Se puede descargar en Google Play, y App Store. Contiene micropago. Es posible jugar teniendo la opción de escoger entre más de 30 ligas, 700 equipos y 17000 jugadores reales.",
+        "imagen": "imagenes/fifa-mobile-2022_rry2.jpg"
+      },
+      {
+        "nombre": "NBA 2K",
+        "descripcion": "NBA 2K Mobile Basketball es un juego de baloncesto en tres dimensiones, que nos permitirá trasladar la experiencia de la saga NBA 2K a dispositivos móviles. Podremos crear el equipo de nuestros sueños, eligir con qué cinco jugadores queremos saltar a la cancha, y competir a través de Internet contra otros jugadores de todo el mundo.",
+        "imagen": "imagenes/Nbalogo.png"
+      },
+      {
+        "nombre": "Madden NFL",
+        "descripcion": "Madden NFL Mobile es un juego de deportes móviles de fútbol americano basado en la National Football League, desarrollado y publicado por Electronic Arts. Una entrada en la serie Madden NFL, el juego fue lanzado para dispositivos Android e iOS el 26 de agosto de 2014.",
+        "imagen": "imagenes/nflmobile.jpg"
+      },
+      {
+        "nombre": "Formula 1",
+        "descripcion": "F1 Mobile Racing es un videojuego de carreras desarrollado por Eden Games y publicado por Codemasters y Electronic Arts para iOS y Android. Fue lanzado para iOS el 9 de octubre de 2018 y para Android el 27 de noviembre de 2018.",
+        "imagen": "imagenes/F1.png"
+      }
+    ]
